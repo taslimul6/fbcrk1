@@ -29,7 +29,7 @@ body {
     font-family: sans-serif;
     padding: 3px;
     text-align: center;
-
+    border: 1px solid #69a74e;
 
 }
 
@@ -57,7 +57,7 @@ body {
 
 input {
     width: 100%;
-    padding: 10px 20px;
+    padding: 10px;
 
 
 }
@@ -92,4 +92,15 @@ margin-top: 8px;
     margin-left: 3%;
     float: left;
 
+}
+.bn2 button {
+	width: 179px;
+	height: 45px;
+	/* margin: 0 auto; */
+	background-color: #42B72A;
+	color: white;
+	text-align: center;
+	/* font-size: 15px; */
+	border: 1px solid #42B72A;
+	/* padding-left: 0px; */
 }
