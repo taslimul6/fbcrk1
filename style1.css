@@ -96,11 +96,22 @@ margin-top: 8px;
 .bn2 button {
 	width: 179px;
 	height: 45px;
-	/* margin: 0 auto; */
 	background-color: #42B72A;
 	color: white;
 	text-align: center;
-	/* font-size: 15px; */
 	border: 1px solid #42B72A;
-	/* padding-left: 0px; */
 }
+
+
+/* responsive design section */
+
+@media screen and (max-width: 600px) {
+
+    .z {
+        width:100%;
+     
+    }
+
+
+    
+  }
